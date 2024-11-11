@@ -29,6 +29,7 @@
         <!--<activity
             android:name=".OpcionesVendedor"
             android:exported="true" />-->
+        <!-- texto prueba-->
 
         <activity android:name=".com.example.inicio.VentasActivity" />
 
