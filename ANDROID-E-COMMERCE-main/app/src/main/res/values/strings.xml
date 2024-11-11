@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">inicio</string>
+    <string name="product_image">Imagen del producto</string>
+
+    <string-array name="Categorias">
+        <item>Seleccionar...</item> <!-- Texto placeholder -->
+        <item>Electrónica.</item>
+        <item>Ropa.</item>
+        <item>Hogar.</item>
+        <item>Deportes.</item>
+        <item>Juguetes.</item>
+    </string-array>
+
+</resources>
